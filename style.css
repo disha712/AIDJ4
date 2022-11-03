@@ -1,0 +1,42 @@
+.title{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:blue;
+}
+body{
+    background-size:cover;
+}
+.speed{
+    float:left;
+}
+.disk_speed{
+    width:200px;
+    border-radius:100px;
+}
+#speed_title{
+    font-size:23px;
+    margin:15px;
+}
+.volume{
+    float:right;
+}
+.disk_volume{
+    width:200px;
+    border-radius:100px;
+}
+#volume_title{
+    font-size:23px;
+    margin:15px;
+}
+.play_music{
+    width:130px;
+    font-size:25px;
+}
+canvas{
+    border:5px solid greenyellow;
+    border-radius:20px;
+}
